@@ -1,0 +1,40 @@
+@media(max-width:500px){
+    .nav_contents{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+    .input_nav{
+        display: none;
+    }
+    .all_bu{
+        height: 40px;
+       }
+       .al_cat_bu{
+        display: none;
+       }
+       .offcan_all_pro{
+        display: none;
+       }
+       .all_pro_pics {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        /* background-color: brown; */
+        width: 500px;
+        height: 180vh;
+        justify-content: space-around;
+      }
+      .lnks_below{
+        width: 500px;
+      }
+      .footer{
+        height: 100vh;
+        position: relative;
+        top:560px;
+      }
+      .first_foot{
+        /* background-color: #fff; */
+        height: 518px;
+      }
+      
+}

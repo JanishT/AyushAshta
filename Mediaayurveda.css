@@ -1,0 +1,163 @@
+@media(max-width:500px){
+  
+    .input_nav{
+        display: none;
+    }
+    .nav_contents{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+    .intro_log{
+        display: none;
+    }
+    .Category_type{
+        /* display: none; */
+    }
+    .out_Category_type{
+      /* display: none; */
+    }
+    .full_body{
+        margin-left: 260px;
+        background-color: #2d8cf0;
+        height: 390vh;
+        width: 450px;
+      
+      }
+      .intro_log_cont {
+        display: flex;
+        color: black;
+        justify-content: space-around;
+        width: 100%;
+      
+        /* background-color: #2d8cf0; */
+        justify-content: flex-start;
+        align-items: center;
+        height: 250px;
+        /* background-color: #062744; */
+      }
+      .intro_cont {
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+        font-size: 30px;
+        /* background-color: aquamarine; */
+        align-items: center;
+        justify-content: center;
+        /* background-color: #ff5a91; */
+      }
+      .into_con {
+        font-size: 30px;
+        font-family: serif;
+      }
+      .all_content{
+        width: 500px;
+        background-size: cover;
+        height: 400px;
+      }
+     .al_cat_bu{
+      display: none;
+     }
+      .out_all_card_buy{
+        height: 140vh;
+        /* background-color: #ff568e; */
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        
+      }
+      .all_cards_buyi{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        /* display: flex; */
+        justify-content: space-around;
+        background-color: #fff;
+        /* height: 170vh; */
+      }
+      .ben_heads{
+        height: 100px;
+      }
+      .card{
+        height: 430px !important;
+        width: 240px;
+        /* background-color: aqua !important; */
+        margin: 5px;
+      }
+      .all_card_ben{
+        width: 500px;
+        /* background-color: #ff5a91; */
+        height: 400px;
+      }
+   
+      .benfit_all{
+        width: 100%;
+        /* height: 780px; */
+      }
+      .ben_head {
+        font-weight: bold;
+        font-size: 30px;
+        color: #121212;
+      }
+      .achie_ben {
+        color: #6b6b6b;
+        font-weight: 600;
+        font-size: 30px;
+      }
+      .all_out_all_card_buy{
+        display: flex;
+        width: 100%;
+      }
+      .chatbox{
+        /* bottom: 20px; */
+        /* background-color: aqua; */
+        right: 50px;
+      }
+     .lnks_below{
+      position: relative;
+      top: 110px;
+      height: 40px;
+      font-size: 10px;
+     }
+     .all_bu{
+      height: 40px;
+     }
+     .all_out_all_card_buy{
+      /* background-color: #2d8cf0; */
+      height: 1010px;
+     }
+     .all_card_ben{
+      display: grid;
+      grid-template-columns: repeat(2,1fr);
+     }
+     .third_c_foot{
+      height: 450px;
+      /* background-color: aquamarine; */
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      /* top: 20px; */
+     }
+     .first_foot{
+      /* background-color: #fff; */
+      height: 500px;
+     }
+     .revie{
+      height: 170vh;
+      width: 500px;
+     
+    }
+    .ad_contnt{
+      width: 500px;
+      display: flex;
+      text-align: center;
+    }
+    .home-testimonial{
+      height: 170vh;
+      display: flex;
+      flex-direction: column;
+      /* justify-content: space-around; */
+     
+    }
+    
+
+}

@@ -1,0 +1,158 @@
+@media(max-width:500px){
+    .pro_img_det{
+        display: flex;
+        flex-direction: column;
+        background-color: aqua;
+        width: 500px;
+        height: 100vh;
+    }
+    .nav_contents{
+        /* background-color: #c06969; */
+        width: 500px;
+        /* width: 100%; */
+        display: flex;
+        justify-content: space-around;
+    }
+    .input_nav{
+        display: none;
+    }
+    .but_img_quantity{
+        /* background-color: #3d2020; */
+        width: 500px;
+    }
+    .main_bar{
+        width: 500px;
+    }
+    .pro_details{
+        width: 500px;
+        font-size: 17px;
+        /* width: 1018px; */
+        padding: -19px;
+        /* border: 1px solid black; */
+        line-height: 30px;
+        /* padding: 10px; */
+    }
+    .sidebar{
+        display: none;
+    }
+    .all_out_all_card_buy{
+        display: flex;
+        width: 100%;
+        height: 1010px;
+      }
+       .related_pro{
+        height: 170vh;
+        /* background-color: #ff568e; */
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        
+      }
+      .card{
+        /* background-color: aquamarine !important; */
+        height: 800px;
+      }
+      .all_card_pro{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        /* display: flex; */
+        justify-content: space-around;
+        /* background-color: #d23434; */
+        height: 170vh;
+      }
+      .card{
+        height: 400px !important;
+        width: 190px;
+        /* background-color: aqua !important; */
+        margin: 5px;
+        height: 140px;
+      }
+      .head_relat_pro{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* background-color: brown; */
+        width: 500px;
+      }
+      .for_media_sidebar{
+        display: flex;
+        /* height: 100vh; */
+      }
+      .sidebars{
+        
+            display: flex;
+            flex-direction: column;
+            /* border: 1px solid black; */
+            width: 400px;
+            background: rgb(194,221,172);
+          background: linear-gradient(90deg, rgba(194,221,172,1) 11%, rgba(241,244,236,1) 51%);
+          width: 500px;
+      }
+      .but_img_quantity{
+        display: flex;
+        width: 500px;
+        justify-content: center;
+        /* background-color: aqua; */
+      }
+      .all_sidebar{
+        width: 500px;
+        height: 100vhv;
+        /* background-color: brown; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .first_foot{
+        /* background-color: #fff; */
+        height: 500px;
+       }
+       .third_c_foot{
+        height: 360px;
+        /* background-color: aquamarine; */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+       }
+       .footer{
+        width: 500px;
+       }
+       .Conta_foot{
+        font-size: 24px;
+        color: black;
+       }
+       .outthird_c_foot{
+        /* background-color: #660e0e; */
+        height: 500px;
+        display: flex;
+        justify-content: end;
+        align-items: end;
+        align-content: end;
+       }
+       .cart_butt_div{
+        /* background-color: #a31515; */
+        /* height: 40px; */
+        width: 200px;
+
+       }
+       .cart_butt{
+        width: 80px;
+        font-size: 14px;
+       }
+       .related_pro{
+        /* background-color: blue; */
+       }
+       .rel_pat_car{
+        height: 80px;
+       }
+       .card-price{
+        height: 50px;
+        font-size: 15px;
+        width: 100px;
+        display: flex;
+        align-items: center;
+       }
+       .card-subtitle{
+        /* background-color: aqua; */
+        font-size: 10px;
+       }
+}

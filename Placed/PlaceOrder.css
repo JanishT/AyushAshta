@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bord{
+    border: 1px solid black;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    justify-content: space-around;
+}
